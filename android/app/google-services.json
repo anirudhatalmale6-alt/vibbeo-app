@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "315479183389",
+    "project_id": "chenal8-963c6",
+    "storage_bucket": "chenal8-963c6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315479183389:android:00b395ba44f833e3fcb6f4",
+        "android_client_info": {
+          "package_name": "Com.vibbeo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGi3YUG8MOxM_0jJvI_xd9XiryOFU2D1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-4519705537022498~4606293838"
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315479183389:android:ab011e13f872702afcb6f4",
+        "android_client_info": {
+          "package_name": "com.vibbeo.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGi3YUG8MOxM_0jJvI_xd9XiryOFU2D1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
